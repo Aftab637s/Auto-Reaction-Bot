@@ -1,7 +1,7 @@
 from os import environ
 
-API_HASH = environ.get("API_HASH", "23907320")
-API_ID = int(environ.get("API_ID", "c3c68636fa902388c33426958b69a886")
+API_HASH = environ.get("API_HASH", "c3c68636fa902388c33426958b69a886"")
+API_ID = int(environ.get("API_ID", "23907320")
 BOT_TOKEN = environ.get("BOT_TOKEN", "7541660634:AAFKaxGUe1qnGJuTW_Dr97V8tsMZqD0OASE")
 BOT_OWNER = int(environ.get("BOT_OWNER", "7338196784"))
 BOT_USERNAME = environ.get("BOT_USERNAME", "@SONALI_MUSIC_FFZ_BOT)
